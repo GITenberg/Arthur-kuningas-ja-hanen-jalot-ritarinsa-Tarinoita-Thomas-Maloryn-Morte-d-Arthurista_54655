@@ -1,10 +1,13 @@
 _repo: Arthur-kuningas-ja-hanen-jalot-ritarinsa-Tarinoita-Thomas-Maloryn-Morte-d-Arthurista_54655
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Lehtonen, Aino
     gutenberg_agent_id: '47974'
     url: http://www.gutenberg.org/2009/agents/47974
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Malory, Thomas, Sir
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '45166'
     url: http://www.gutenberg.org/2009/agents/45166
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54655#Arthur-kuningas-ja-hanen-jalot-ritarinsa-Tarinoita-Thomas-Maloryn-Morte-d-Arthurista
 gutenberg_issued: '2017-05-03'
 gutenberg_type: Text
 identifiers:
